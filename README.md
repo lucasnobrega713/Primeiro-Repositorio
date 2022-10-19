@@ -1,2 +1,2 @@
 # Desafio de Projeto sobre Git/GitHub
-Repositório criado para o Desafio de Projeto
+Repositório utilizado para acompanhamento de aulas e projetos do bootcamp da DIO
